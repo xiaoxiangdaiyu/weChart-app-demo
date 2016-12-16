@@ -9,7 +9,7 @@ Page({
   //事件处理函数
   bindViewTap: function() {
     wx.navigateTo({
-      url: '../form/form'
+      url: '../input/input'
     })
   },
   onLoad: function () {
