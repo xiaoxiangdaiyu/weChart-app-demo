@@ -1,7 +1,9 @@
 {
   "pages":[
-    "pages/index/index",
-    "pages/logs/logs"
+   "pages/index/index",
+    "pages/logs/logs",
+    "pages/swiper/swiper",
+    "pages/form/form"
   ],
   "window":{
     "backgroundTextStyle":"light",
